@@ -10,7 +10,7 @@
 * Laravel 13
 * Laravel Sanctum
 * Laravel Queue
-* SQLite
+* Mysql
 * Vue 3
 * Vue Router
 * Axios
